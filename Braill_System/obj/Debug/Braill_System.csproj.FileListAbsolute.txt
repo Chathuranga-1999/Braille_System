@@ -1,0 +1,13 @@
+C:\Users\Senarathne\Desktop\system\Braill_System\Braill_System\bin\Debug\Braill_System.exe.config
+C:\Users\Senarathne\Desktop\system\Braill_System\Braill_System\bin\Debug\Braill_System.exe
+C:\Users\Senarathne\Desktop\system\Braill_System\Braill_System\bin\Debug\Braill_System.pdb
+C:\Users\Senarathne\Desktop\system\Braill_System\Braill_System\obj\Debug\Braill_System.csproj.AssemblyReference.cache
+C:\Users\Senarathne\Desktop\system\Braill_System\Braill_System\obj\Debug\Braill_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Senarathne\Desktop\system\Braill_System\Braill_System\obj\Debug\Braill_System.Form1.resources
+C:\Users\Senarathne\Desktop\system\Braill_System\Braill_System\obj\Debug\Braill_System.Properties.Resources.resources
+C:\Users\Senarathne\Desktop\system\Braill_System\Braill_System\obj\Debug\Braill_System.csproj.GenerateResource.cache
+C:\Users\Senarathne\Desktop\system\Braill_System\Braill_System\obj\Debug\Braill_System.csproj.CoreCompileInputs.cache
+C:\Users\Senarathne\Desktop\system\Braill_System\Braill_System\obj\Debug\Braill_System.exe
+C:\Users\Senarathne\Desktop\system\Braill_System\Braill_System\obj\Debug\Braill_System.pdb
+C:\Users\Senarathne\Desktop\system\Braill_System\Braill_System\obj\Debug\Braill_System.Form2.resources
+C:\Users\Senarathne\Desktop\system\Braill_System\Braill_System\obj\Debug\Braill_System.Form3.resources
